@@ -1,3 +1,5 @@
 node_modules/
 dist/
 .idea/
+.history/
+vuex-composition-helpers-*.tgz
